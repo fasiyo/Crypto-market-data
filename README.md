@@ -1,5 +1,7 @@
 # Crypto Market Data App
 
+![Crypto App Screenshot](market-app-example.png)
+
 The Crypto Market Data app is a web application that provides the latest market data for cryptocurrencies. It allows users to search for cryptocurrencies and view their symbol, last price, 24-hour volume, and percentage change over a 24-hour period.
 
 ## Features
