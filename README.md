@@ -36,7 +36,7 @@ npm start
 
 ## Usage
 
-- Upon launching the app, the latest market data for cryptocurrencies against USD will be displayed in a table.
+- Upon launching the app, the latest market data for cryptocurrencies against other crypto currencies will be displayed in a table.
 - Use the search input to filter cryptocurrencies based on symbol or name. The table will update dynamically as you type.
 - The table columns show the symbol, last price, 24-hour volume, and percentage change of each cryptocurrency.
 - Negative percentage change is displayed in red, indicating a decrease, while positive percentage change is displayed in green, indicating an increase.
